@@ -73,7 +73,7 @@ a:hover {
 }
 
 .container-fluid {
-  max-width: 1500px;
+  max-width: 1200px;
   text-align: justify;
 }
 
@@ -111,8 +111,7 @@ a:hover {
 }
 
 .tm-brand-container-outer {
-  margin-top: -400px;
-  margin-bottom: 1000;
+  margin-top: -700px;
 }
 
 .tm-brand-container-inner {
@@ -133,7 +132,7 @@ a:hover {
 }
 
 .parallax-window {
-  min-height: 1100px;
+  min-height: 1400px;
   background: transparent;
 }
 
@@ -145,7 +144,6 @@ a:hover {
 .tm-welcome-container {
   min-height: 400px;
   position: absolute;
-  top: 670px;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -159,14 +157,13 @@ a:hover {
 }
 
 .tm-welcome-left {
-  margin-right: 310px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+ padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 10px;
   text-align: justify;
 }
 
 .tm-welcome-left-col {
-  margin-left: -130px;
   display: flex;
   align-items: center;
 }
@@ -174,25 +171,13 @@ a:hover {
 .tm-welcome-right {
   color: white;
   background-color: #986665;
-  padding: 40px 35px 90px;
-  height: 90%;
-  width: 70%;
-  margin-left: 20px;
-}
-
-.tm-welcome-right2 {
-  color: white;
-  background-color: #986665;
-  padding: 20px 30px 90px;
-  height: 400px;
-  width: 70%;
-  margin-top: -444px;
-  margin-left: 930px;
-  
+  padding: 20px 43px 30px;
+  height: 100%;
 }
 
 .tm-welcome-icon {
-  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-bottom: -10px;
   display: block;
   text-align: center;
 }
@@ -206,8 +191,7 @@ a:hover {
 }
 
 .tm-portfolio-item {
-  text-align: justify;
-  display: flex;
+ display: flex;
   align-items: center;
   margin-bottom: 80px;
 }
