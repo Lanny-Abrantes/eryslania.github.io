@@ -116,14 +116,14 @@ a:hover {
 }
 
 .tm-brand-container-inner {
-  max-width: 400px;
-  /*position: static;*/
+  /*max-width: 400px;*/
+  position: static;
   width: 100%;
 }
 
 .tm-brand-container {
   padding: 75px 110px;
-  margin-top: -500px;
+  margin-top: -650px;
 }
 
 .grand-name {
