@@ -110,17 +110,20 @@ a:hover {
   align-items: center;
 }
 
+/*a altura dos dados pessoais */
 .tm-brand-container-outer {
-  margin-top: -700px;
+  /*margin-top: -700px;*/
 }
 
 .tm-brand-container-inner {
   max-width: 580px;
+  /*position: static;*/
   width: 100%;
 }
 
 .tm-brand-container {
   padding: 75px 110px;
+  margin-top: -500px;
 }
 
 .grand-name {
@@ -142,7 +145,8 @@ a:hover {
 
 /*fundo transparente do endereço, escolaridade e experiencias*/
 .tm-welcome-container {
-  min-height: 400px;
+  /*min-height: 400px;*/
+  padding: 0;
   position: absolute;
   bottom: 0;
   left: 0;
